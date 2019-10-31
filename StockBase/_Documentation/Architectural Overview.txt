@@ -1,0 +1,8 @@
+﻿The StockBase project uses a number of 3rd party packages to accomplish the robustness of features.
+
+Autofac - Library used for setting up dependency injection
+AutoMapper - Maps a DB object to a corresponding DTO (data transfer object)
+Cors - Cross-Origin Resource Sharing -> allows another web service to share resources with this application
+Formatter - Configures formatter to use JSON and removes XML formatter
+Serilog - Allows for a centralized logging system that prints different log levels
+Swagger - API documentation library

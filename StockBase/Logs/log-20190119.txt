@@ -1,0 +1,5 @@
+2019-01-19 17:50:02.101 -05:00 [INF] Historical data request on: ugaz
+2019-01-19 18:02:08.099 -05:00 [INF] Historical data request on: ugaz
+2019-01-19 18:02:09.081 -05:00 [INF] Retrieved 23 historical data points for ugaz
+2019-01-19 18:16:37.962 -05:00 [INF] Historical data request on: ugaz
+2019-01-19 18:16:39.031 -05:00 [INF] Retrieved 23 historical data points for ugaz
